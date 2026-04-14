@@ -1,56 +1,192 @@
-# Hi there, I'm Yaseen 👋
+<div align="center">
 
-## 💼 Professional Summary
-Software Engineer specializing in backend development, scalable system design, and cloud-native architectures. Experienced in building production-grade platforms using Python and Flask, designing clean, maintainable systems, and deploying containerized applications on Kubernetes with automated CI/CD pipelines. Passionate about clean code, system reliability, and solving complex engineering problems at scale.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yaseen&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20System%20Design%20%7C%20Cloud%20Native&descAlignY=58&descSize=22&descColor=a78bfa"/>
 
-## 🛠️ Core Technical Skills
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Hi+There!+I'm+Yaseen+%F0%9F%91%8B;Backend+Engineer+%7C+Python+%26+Flask;Kubernetes+%26+Cloud+Native+Dev;Clean+Architecture+Advocate+%E2%9C%A8;Building+Scalable+Systems+at+Scale+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+<br/>
 
-**Backend & Frameworks**  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=yaseen-vm&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/yaseen-vm?label=Followers&style=for-the-badge&color=6d28d9&labelColor=1e1b4b" alt="GitHub Followers"/>
 
-**Databases & Storage**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+</div>
 
-**Cloud & DevOps**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**System Engineering**  
-Clean Architecture • Repository Pattern • Dependency Injection • Asynchronous Processing • Scalable System Design • Performance Optimization • API Security
-
-**Testing & Quality**  
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Black](https://img.shields.io/badge/-Black-000000?style=flat&logo=python&logoColor=white)
-![MyPy](https://img.shields.io/badge/-MyPy-2A6DB2?style=flat&logo=python&logoColor=white)
-
-## 🚀 Engineering Profile
-Strong backend engineering and system design mindset. Experienced in building containerized, production-grade platforms. Deep interest in scalability, clean code, and performance engineering. Comfortable working with complex business logic and third-party integrations. Highly motivated, fast learner, and technically driven.
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseen-vm&show_icons=true&theme=radical)
-
-## 🚀 Featured Projects
-- **[Ceremo Services](https://github.com/yaseen-vm/ceremo-services)** - Flask application built with Clean Architecture principles, featuring MySQL integration, comprehensive unit testing, and professional project structure
-
-## 📫 Connect With Me
-Feel free to reach out for collaborations or discussions about backend development!
+<br/>
 
 ---
-⭐️ From [yaseen-vm](https://github.com/yaseen-vm)
+
+## 🧑‍💻 About Me
+
+```python
+class BackendEngineer:
+    name       = "Yaseen"
+    title      = "Software Engineer"
+    location   = "🌍 Available Remotely"
+
+    focus      = [
+        "Backend Development",
+        "Scalable System Design",
+        "Cloud-Native Architectures",
+        "Clean Code & Maintainability",
+    ]
+
+    stack = {
+        "languages" : ["Python", "Java", "JavaScript", "C", "C++"],
+        "backend"   : ["Flask", "FastAPI", "REST APIs"],
+        "databases" : ["PostgreSQL", "MySQL", "MongoDB", "Redis", "DynamoDB"],
+        "devops"    : ["Docker", "Kubernetes", "Helm", "GitHub Actions", "Linux"],
+        "practices" : ["Clean Architecture", "Repository Pattern",
+                       "Dependency Injection", "CI/CD", "TDD"],
+    }
+
+    currently_working_on = "Production-grade Flask services with K8s deployments"
+    fun_fact             = "Clean code is a love letter to the next developer 💌"
+```
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ⚡ Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp&theme=dark&perline=5" />
+
+<br/>
+
+### 🔧 Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark&perline=5" />
+
+<br/>
+
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,dynamodb&theme=dark&perline=5" />
+
+<br/>
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux&theme=dark&perline=5" />
+
+<br/>
+
+### 🧪 Testing & Quality
+<img src="https://skillicons.dev/icons?i=pytest&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyPy-2A6DB2?style=for-the-badge&logo=python&logoColor=white"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaseen-vm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseen-vm&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=yaseen-vm&theme=tokyonight&border_radius=12&hide_border=false" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaseen-vm&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&row=1&column=7" />
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/yaseen-vm/ceremo-services">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseen-vm&repo=ceremo-services&theme=tokyonight&border_radius=12&description_lines_count=3" />
+</a>
+
+</div>
+
+<br/>
+
+> 🏗️ **Ceremo Services** — A Flask application built with **Clean Architecture** principles, featuring MySQL integration, comprehensive unit testing, and a professional production-grade project structure. Designed for maintainability and scalability.
+
+<br/>
+
+---
+
+## 💡 Engineering Principles
+
+<div align="center">
+
+| Principle | Description |
+|---|---|
+| 🏛️ **Clean Architecture** | Separation of concerns, testable layers |
+| 🔁 **Repository Pattern** | Decoupled data access, swappable backends |
+| 💉 **Dependency Injection** | Loosely coupled, highly testable services |
+| ⚡ **Async Processing** | Non-blocking I/O for high-throughput systems |
+| 📈 **Scalability First** | Designed for growth from day one |
+| 🔒 **API Security** | Auth, rate limiting, and input validation |
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaseen-vm&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=6d28d9&point=ffffff&area=true&hide_border=false&border_radius=12" />
+</div>
+
+<br/>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/yaseen-vm">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mohammedyaseenvm@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💬 Open to collaborations, backend discussions, and system design deep-dives!
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&fontSize=16&fontColor=a78bfa&animation=fadeIn"/>
+
+</div>
