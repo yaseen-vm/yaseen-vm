@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yaseen&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20System%20Design%20%7C%20Cloud%20Native&descAlignY=58&descSize=22&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yaseen&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend%20%7C%20Frontend%20%7C%20Cloud%20Native&descAlignY=58&descSize=22&descColor=a78bfa"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Hi+There!+I'm+Yaseen+%F0%9F%91%8B;Backend+Engineer+%7C+Python+%26+Flask;Kubernetes+%26+Cloud+Native+Dev;Clean+Architecture+Advocate+%E2%9C%A8;Building+Scalable+Systems+at+Scale+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Hi+There!+I'm+Yaseen+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Backend+%26+Frontend;Python+%7C+Flask+%7C+FastAPI+%7C+React;TypeScript+%7C+Flutter+%7C+Mobile+Dev;Kubernetes+%26+Cloud+Native+Dev;Clean+Architecture+Advocate+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,28 +19,30 @@
 ## 🧑‍💻 About Me
 
 ```python
-class BackendEngineer:
+class FullStackEngineer:
     name       = "Yaseen"
-    title      = "Software Engineer"
+    title      = "Full Stack Software Engineer"
     location   = "🌍 Available Remotely"
 
     focus      = [
         "Backend Development",
+        "Frontend & Mobile Development",
         "Scalable System Design",
         "Cloud-Native Architectures",
         "Clean Code & Maintainability",
     ]
 
     stack = {
-        "languages" : ["Python", "Java", "JavaScript", "C", "C++"],
+        "languages" : ["Python", "Java", "TypeScript", "JavaScript", "Dart", "C", "C++"],
         "backend"   : ["Flask", "FastAPI", "REST APIs"],
+        "frontend"  : ["React", "TypeScript", "Flutter"],
         "databases" : ["PostgreSQL", "MySQL", "MongoDB", "Redis", "DynamoDB"],
         "devops"    : ["Docker", "Kubernetes", "Helm", "GitHub Actions", "Linux"],
         "practices" : ["Clean Architecture", "Repository Pattern",
                        "Dependency Injection", "CI/CD", "TDD"],
     }
 
-    currently_working_on = "Production-grade Flask services with K8s deployments"
+    currently_working_on = "Full-stack apps with React + Flask + K8s"
     fun_fact             = "Clean code is a love letter to the next developer 💌"
 ```
 
@@ -53,7 +55,12 @@ class BackendEngineer:
 <div align="center">
 
 ### ⚡ Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,dart,c,cpp&theme=dark&perline=7" />
+
+<br/>
+
+### 🎨 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,flutter&theme=dark&perline=5" />
 
 <br/>
 
