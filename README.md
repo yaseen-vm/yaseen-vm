@@ -20,8 +20,8 @@
 
 ```python
 class FullStackEngineer:
-    name       = "Yaseen"
-    title      = "Full Stack Software Engineer"
+    name       = "Mohammed Yaseen VM"
+    title      = "AI-First Software Engineer"
     location   = "🌍 Available Remotely"
 
     focus      = [
