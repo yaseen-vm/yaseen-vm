@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yaseen&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend%20%7C%20Frontend%20%7C%20Cloud%20Native&descAlignY=58&descSize=22&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yaseen&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Aspiring%20Forward%20Deployed%20Engineer%20%7C%20Backend%20%7C%20Cloud%20Native&descAlignY=58&descSize=22&descColor=a78bfa"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Hi+There!+I'm+Yaseen+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Backend+%26+Frontend;Python+%7C+Flask+%7C+FastAPI+%7C+React;TypeScript+%7C+Flutter+%7C+Mobile+Dev;Kubernetes+%26+Cloud+Native+Dev;Clean+Architecture+Advocate+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Hi+There!+I'm+Yaseen+%F0%9F%91%8B;Software+Engineer+%7C+Aspiring+Forward+Deployed+Engineer;Python+%7C+Flask+%7C+FastAPI+%7C+React;TypeScript+%7C+Flutter+%7C+Mobile+Dev;Kubernetes+%26+Cloud+Native+Dev;Clean+Architecture+Advocate+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,9 +19,9 @@
 ## 🧑‍💻 About Me
 
 ```python
-class FullStackEngineer:
+class SoftwareEngineer:
     name       = "Mohammed Yaseen VM"
-    title      = "AI-First Software Engineer"
+    title      = "Software Engineer"
     location   = "🌍 Available Remotely"
 
     focus      = [
@@ -29,11 +29,12 @@ class FullStackEngineer:
         "Frontend & Mobile Development",
         "Scalable System Design",
         "Cloud-Native Architectures",
+        "Forward Deployed Engineering",
         "Clean Code & Maintainability",
     ]
 
     stack = {
-        "languages" : ["Python", "Java", "TypeScript", "JavaScript", "Dart", "C", "C++"],
+        "languages" : ["Python", "Java", "TypeScript", "JavaScript", "Dart", "C", "C++", "Rust"],
         "backend"   : ["Flask", "FastAPI", "REST APIs"],
         "frontend"  : ["React", "TypeScript", "Flutter"],
         "databases" : ["PostgreSQL", "MySQL", "MongoDB", "Redis", "DynamoDB"],
@@ -55,7 +56,7 @@ class FullStackEngineer:
 <div align="center">
 
 ### ⚡ Languages
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,dart,c,cpp&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,dart,c,cpp,rust&theme=dark&perline=8" />
 
 <br/>
 
@@ -123,15 +124,47 @@ class FullStackEngineer:
 
 <div align="center">
 
-<a href="https://github.com/yaseen-vm/ceremo-services">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseen-vm&repo=ceremo-services&theme=tokyonight&border_radius=12&description_lines_count=3" />
+<a href="https://github.com/vivid-vitablends-showcase/vivid_vitablends">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivid-vitablends-showcase&repo=vivid_vitablends&theme=tokyonight&border_radius=12&description_lines_count=3" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/ceremo-development">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceremo-development&repo=ceremo-services&theme=tokyonight&border_radius=12&description_lines_count=3" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/yaseen-vm/cortex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseen-vm&repo=cortex&theme=tokyonight&border_radius=12&description_lines_count=3" />
+</a>
+
+<br/>
+
+<a href="https://github.com/vivid-vitablends-showcase/vivid-vitablends-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivid-vitablends-showcase&repo=vivid-vitablends-app&theme=tokyonight&border_radius=12&description_lines_count=3" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Hooralbahr/Hooralbahr">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hooralbahr&repo=Hooralbahr&theme=tokyonight&border_radius=12&description_lines_count=3" />
 </a>
 
 </div>
 
 <br/>
 
-> 🏗️ **Ceremo Services** — A Flask application built with **Clean Architecture** principles, featuring MySQL integration, comprehensive unit testing, and a professional production-grade project structure. Designed for maintainability and scalability.
+> 🛒 **Vivid VitaBlends** — Full-stack e-commerce platform for health & wellness products. React/TypeScript storefront with GSAP animations, Node.js/Express API, Prisma + PostgreSQL, Redis caching, JWT auth, and Dockerised CI/CD.
+
+> 🏗️ **Ceremo** — Marketplace for premium event & wedding rentals. React/TypeScript storefront with booking management, partner dashboards, and a Flask clean-architecture API backed by Supabase PostgreSQL.
+
+> 🤖 **Cortex** — Autonomous codebase intelligence platform. AI agents analyse diffs on PR merge, open validated fix PRs, and learn from reviewer decisions over time.
+
+> 📱 **VitaBlends App** — Flutter mobile companion for Vivid VitaBlends — product catalog, cart, checkout, user auth, and order history with Provider state management.
+
+> 🍽️ **Hoor Al Bahr** — Bilingual (EN/AR) restaurant website with Flask backend, SQLite menu database, admin dashboard, and Dockerised CI/CD deploying via GitHub Actions + Nginx.
 
 <br/>
 
