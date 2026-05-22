@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yaseen&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Frontend%20%7C%20Cloud%20Native&descAlignY=58&descSize=22&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yaseen&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Aspiring%20Forward%20Deployed%20Engineer%20%7C%20Backend%20%7C%20Cloud%20Native&descAlignY=58&descSize=22&descColor=a78bfa"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Hi+There!+I'm+Yaseen+%F0%9F%91%8B;Software+Engineer+%7C+Backend+%26+Frontend;Python+%7C+Flask+%7C+FastAPI+%7C+React;TypeScript+%7C+Flutter+%7C+Mobile+Dev;Kubernetes+%26+Cloud+Native+Dev;Clean+Architecture+Advocate+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Hi+There!+I'm+Yaseen+%F0%9F%91%8B;Software+Engineer+%7C+Aspiring+Forward+Deployed+Engineer;Python+%7C+Flask+%7C+FastAPI+%7C+React;TypeScript+%7C+Flutter+%7C+Mobile+Dev;Kubernetes+%26+Cloud+Native+Dev;Clean+Architecture+Advocate+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,6 +29,7 @@ class SoftwareEngineer:
         "Frontend & Mobile Development",
         "Scalable System Design",
         "Cloud-Native Architectures",
+        "Forward Deployed Engineering",
         "Clean Code & Maintainability",
     ]
 
