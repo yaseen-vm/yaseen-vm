@@ -20,9 +20,9 @@
 
 ```python
 class SoftwareEngineer:
-    name       = "Mohammed Yaseen VM"
+    name       = "Mohammed Yaseen V M"
     title      = "Software Engineer"
-    location   = "🌍 Available Remotely"
+    location   = "Kochi, Kerala, India"
 
     focus      = [
         "Backend Development",
