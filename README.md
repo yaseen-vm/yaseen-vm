@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Mohammed%20Yaseen&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Engineering&descAlignY=60&descSize=20&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Mohammed%20Yaseen&fontSize=42&fontColor=ffffff&fontAlignY=40" alt="Mohammed Yaseen — Software Engineer"/>
 
-**I build backend systems, AI-powered developer tools, and cloud-native applications.**
+**Software Engineer focused on reliable backend systems, AI engineering, and cloud-native applications.**
 
-[Portfolio](https://yaseen.dev/) · [GitHub](https://github.com/yaseen-vm) · [Email](mailto:mohammedyaseenvm@gmail.com)
+[GitHub](https://github.com/yaseen-vm) · [Email](mailto:mohammedyaseenvm@gmail.com)
 
 </div>
 
