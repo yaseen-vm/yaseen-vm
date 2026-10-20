@@ -43,28 +43,28 @@ Contributing to a learning platform across full-stack application development an
 
 A Python CLI that orchestrates specialist reviews for security, architecture, and performance, aggregates findings into a structured report, and supports follow-up Q&A. Uses LangGraph for workflow orchestration, CrewAI for specialist review, and AutoGen for interactive review conversations.
 
-\`Python\` \`LangGraph\` \`CrewAI\` \`AutoGen\` \`LLM integrations\`
+`Python` `LangGraph` `CrewAI` `AutoGen` `LLM integrations`
 
 ### [Repo Scanner](https://github.com/yaseen-vm/repo_scanner)
 **AI-powered code analysis in GitHub Actions**
 
 A reusable workflow for diff-aware code analysis, security and quality findings, PR summaries, and report artifacts. Includes an approval-gated plan → approve → fix workflow for AI-assisted remediation.
 
-\`Python\` \`GitHub Actions\` \`LLM APIs\` \`CI/CD\`
+`Python` `GitHub Actions` `LLM APIs` `CI/CD`
 
 ### [git-context](https://github.com/yaseen-vm/git-context)
 **Repository context for AI code reviews**
 
 A CLI that gathers relevant diffs, related files, repository conventions, and Git history into a structured context package for more informed, architecture-aware code reviews. Supports Markdown, JSON, and prompt-oriented output.
 
-\`Node.js\` \`Git\` \`CLI tooling\` \`AI developer tools\`
+`Node.js` `Git` `CLI tooling` `AI developer tools`
 
 ### [Vivid VitaBlends — Serverless E-commerce](https://github.com/yaseen-vm/vivid_vitablends_serverless)
 **Full-stack commerce on Cloudflare**
 
 A serverless e-commerce implementation using a React and TypeScript frontend with a Hono API on Cloudflare Workers. The architecture uses D1 for relational data, R2 for object storage, KV for caching and rate limiting, Prisma for data access, and Terraform for infrastructure.
 
-\`React\` \`TypeScript\` \`Hono\` \`Cloudflare Workers\` \`D1\` \`R2\` \`Terraform\`
+`React` `TypeScript` `Hono` `Cloudflare Workers` `D1` `R2` `Terraform`
 
 ## Current Focus
 
