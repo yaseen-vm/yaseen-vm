@@ -1,232 +1,111 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yaseen&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Aspiring%20Forward%20Deployed%20Engineer%20%7C%20Backend%20%7C%20Cloud%20Native&descAlignY=58&descSize=22&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Mohammed%20Yaseen&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Engineering&descAlignY=60&descSize=20&descColor=a78bfa"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Hi+There!+I'm+Yaseen+%F0%9F%91%8B;Software+Engineer+%7C+Aspiring+Forward+Deployed+Engineer;Python+%7C+Flask+%7C+FastAPI+%7C+React;TypeScript+%7C+Flutter+%7C+Mobile+Dev;Kubernetes+%26+Cloud+Native+Dev;Clean+Architecture+Advocate+%E2%9C%A8)](https://git.io/typing-svg)
+**I build backend systems, AI-powered developer tools, and cloud-native applications.**
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=yaseen-vm&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/yaseen-vm?label=Followers&style=for-the-badge&color=6d28d9&labelColor=1e1b4b" alt="GitHub Followers"/>
+[Portfolio](https://yaseen.dev/) · [GitHub](https://github.com/yaseen-vm) · [Email](mailto:mohammedyaseenvm@gmail.com)
 
 </div>
 
-<br/>
-
 ---
 
-## 🧑‍💻 About Me
+## About
 
-```python
-class SoftwareEngineer:
-    name       = "Mohammed Yaseen V M"
-    title      = "Software Engineer"
-    location   = "Kochi, Kerala, India"
+I'm a software engineer focused on backend engineering, practical AI applications, and maintainable system design. I work across API development, data modeling, cloud infrastructure, CI/CD, and web/mobile applications.
 
-    focus      = [
-        "Backend Development",
-        "Frontend & Mobile Development",
-        "Scalable System Design",
-        "Cloud-Native Architectures",
-        "Forward Deployed Engineering",
-        "Clean Code & Maintainability",
-    ]
+I care about more than getting a feature to work: I aim to make systems testable, observable, secure, and straightforward to maintain.
 
-    stack = {
-        "languages" : ["Python", "Java", "TypeScript", "JavaScript", "Dart", "C", "C++", "Rust"],
-        "backend"   : ["Flask", "FastAPI", "REST APIs"],
-        "frontend"  : ["React", "TypeScript", "Flutter"],
-        "databases" : ["PostgreSQL", "MySQL", "MongoDB", "Redis", "DynamoDB"],
-        "devops"    : ["Docker", "Kubernetes", "Helm", "GitHub Actions", "Linux"],
-        "practices" : ["Clean Architecture", "Repository Pattern",
-                       "Dependency Injection", "CI/CD", "TDD"],
-    }
+- **Backend:** production APIs, business workflows, database-backed services, and asynchronous processing
+- **AI engineering:** LLM integrations, agent workflows, AI-assisted code review, and retrieval-augmented generation
+- **Cloud & delivery:** Cloudflare, AWS, containers, infrastructure as code, and automated deployment
+- **Engineering practices:** clear contracts, automated tests, documented decisions, and explicit failure handling
 
-    currently_working_on = "Full-stack apps with React + Flask + K8s"
-    fun_fact             = "Clean code is a love letter to the next developer 💌"
-```
+## Experience
 
-<br/>
+### Full-stack Engineering — Zevon AI
+*August 2026 – Present*
 
----
+Contributing to a learning platform across full-stack application development and deployment workflows.
 
-## 🛠️ Tech Stack
+### Edstem Technologies — SetFit
+*Software Engineer / Software Associate · December 2024 – July 2026*
 
-<div align="center">
+- Built and maintained **60+ REST API endpoints across 25 business domains** for a fitness platform.
+- Worked on authentication, bookings, payments, gym discovery, referrals, and rewards.
+- Contributed to MySQL/Vitess data modeling, Redis-backed workflows, and AWS services including ECS, Lambda, and SQS.
+- Delivered features across React Native applications and supported automated deployment workflows.
 
-### ⚡ Languages
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,dart,c,cpp,rust&theme=dark&perline=8" />
+## Selected Projects
 
-<br/>
+### [git-crew](https://github.com/yaseen-vm/git-crew)
+**AI-assisted code review for Git diffs**
 
-### 🎨 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,flutter&theme=dark&perline=5" />
+A Python CLI that orchestrates specialist reviews for security, architecture, and performance, aggregates findings into a structured report, and supports follow-up Q&A. Uses LangGraph for workflow orchestration, CrewAI for specialist review, and AutoGen for interactive review conversations.
 
-<br/>
+\`Python\` \`LangGraph\` \`CrewAI\` \`AutoGen\` \`LLM integrations\`
 
-### 🔧 Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark&perline=5" />
+### [Repo Scanner](https://github.com/yaseen-vm/repo_scanner)
+**AI-powered code analysis in GitHub Actions**
 
-<br/>
+A reusable workflow for diff-aware code analysis, security and quality findings, PR summaries, and report artifacts. Includes an approval-gated plan → approve → fix workflow for AI-assisted remediation.
 
-### 🗄️ Databases & Storage
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,dynamodb&theme=dark&perline=5" />
+\`Python\` \`GitHub Actions\` \`LLM APIs\` \`CI/CD\`
 
-<br/>
+### [git-context](https://github.com/yaseen-vm/git-context)
+**Repository context for AI code reviews**
 
-### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux&theme=dark&perline=5" />
+A CLI that gathers relevant diffs, related files, repository conventions, and Git history into a structured context package for more informed, architecture-aware code reviews. Supports Markdown, JSON, and prompt-oriented output.
 
-<br/>
+\`Node.js\` \`Git\` \`CLI tooling\` \`AI developer tools\`
 
-### 🧪 Testing & Quality
-<img src="https://skillicons.dev/icons?i=pytest&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyPy-2A6DB2?style=for-the-badge&logo=python&logoColor=white"/>
+### [Vivid VitaBlends — Serverless E-commerce](https://github.com/yaseen-vm/vivid_vitablends_serverless)
+**Full-stack commerce on Cloudflare**
 
-</div>
+A serverless e-commerce implementation using a React and TypeScript frontend with a Hono API on Cloudflare Workers. The architecture uses D1 for relational data, R2 for object storage, KV for caching and rate limiting, Prisma for data access, and Terraform for infrastructure.
 
-<br/>
+\`React\` \`TypeScript\` \`Hono\` \`Cloudflare Workers\` \`D1\` \`R2\` \`Terraform\`
 
----
+## Current Focus
 
-## 📊 GitHub Stats
+I'm building an **AI-native job discovery and application-assistance platform**, with an emphasis on reliable crawling, durable orchestration, retry-safe processing, and secure handling of untrusted URLs. I'm also exploring governed, provider-independent AI coding workflows with explicit human approval gates.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaseen-vm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseen-vm&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false"/>
-</div>
+## Technical Skills
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yaseen-vm&theme=tokyonight&border_radius=12&hide_border=false" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaseen-vm&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&row=1&column=7" />
-</div>
-
-<br/>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/vivid-vitablends-showcase/vivid_vitablends">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivid-vitablends-showcase&repo=vivid_vitablends&theme=tokyonight&border_radius=12&description_lines_count=3" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/ceremo-development">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceremo-development&repo=ceremo-services&theme=tokyonight&border_radius=12&description_lines_count=3" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/yaseen-vm/cortex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseen-vm&repo=cortex&theme=tokyonight&border_radius=12&description_lines_count=3" />
-</a>
-
-<br/>
-
-<a href="https://github.com/vivid-vitablends-showcase/vivid-vitablends-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivid-vitablends-showcase&repo=vivid-vitablends-app&theme=tokyonight&border_radius=12&description_lines_count=3" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Hooralbahr/Hooralbahr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hooralbahr&repo=Hooralbahr&theme=tokyonight&border_radius=12&description_lines_count=3" />
-</a>
-
-</div>
-
-<br/>
-
-> 🛒 **Vivid VitaBlends** — Full-stack e-commerce platform for health & wellness products. React/TypeScript storefront with GSAP animations, Node.js/Express API, Prisma + PostgreSQL, Redis caching, JWT auth, and Dockerised CI/CD.
-
-> 🏗️ **Ceremo** — Marketplace for premium event & wedding rentals. React/TypeScript storefront with booking management, partner dashboards, and a Flask clean-architecture API backed by Supabase PostgreSQL.
-
-> 🤖 **Cortex** — Autonomous codebase intelligence platform. AI agents analyse diffs on PR merge, open validated fix PRs, and learn from reviewer decisions over time.
-
-> 📱 **VitaBlends App** — Flutter mobile companion for Vivid VitaBlends — product catalog, cart, checkout, user auth, and order history with Provider state management.
-
-> 🍽️ **Hoor Al Bahr** — Bilingual (EN/AR) restaurant website with Flask backend, SQLite menu database, admin dashboard, and Dockerised CI/CD deploying via GitHub Actions + Nginx.
-
-<br/>
-
----
-
-## 💡 Engineering Principles
-
-<div align="center">
-
-| Principle | Description |
+| Area | Technologies |
 |---|---|
-| 🏛️ **Clean Architecture** | Separation of concerns, testable layers |
-| 🔁 **Repository Pattern** | Decoupled data access, swappable backends |
-| 💉 **Dependency Injection** | Loosely coupled, highly testable services |
-| ⚡ **Async Processing** | Non-blocking I/O for high-throughput systems |
-| 📈 **Scalability First** | Designed for growth from day one |
-| 🔒 **API Security** | Auth, rate limiting, and input validation |
+| **Languages** | Python, TypeScript, JavaScript, SQL, Java, Dart |
+| **Backend & APIs** | Flask, FastAPI, Hono, Node.js, REST APIs |
+| **Frontend & Mobile** | React, React Native, Flutter |
+| **Data** | MySQL, PostgreSQL, Vitess, Redis, MongoDB, Cloudflare D1 |
+| **Cloud & DevOps** | AWS, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions, Linux |
+| **AI Engineering** | LLM integrations, AI agents, RAG, MCP, AWS Bedrock |
+| **Testing & Quality** | Pytest, Jest, TypeScript checks, linting, CI pipelines |
 
-</div>
+## Engineering Principles
 
-<br/>
+- **Design for failure:** retries, timeouts, idempotency, and observable failure states.
+- **Prefer explicit contracts:** clear API boundaries, typed interfaces, and documented decisions.
+- **Automate quality checks:** tests, linting, type checks, and CI before delivery.
+- **Keep humans in consequential loops:** approval gates for risky AI-generated changes and production actions.
+- **Optimize for maintainability:** simple abstractions, clear ownership, and readable code.
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaseen-vm&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=6d28d9&point=ffffff&area=true&hide_border=false&border_radius=12" />
-</div>
-
-<br/>
-
----
-
-## 📫 Connect With Me
+## GitHub Activity
 
 <div align="center">
-
-<a href="https://github.com/yaseen-vm">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:mohammedyaseenvm@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-> 💬 Open to collaborations, backend discussions, and system design deep-dives!
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yaseen-vm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaseen-vm&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+Open to backend engineering, AI engineering, and system design collaborations.
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&fontSize=16&fontColor=a78bfa&animation=fadeIn"/>
+[Portfolio](https://yaseen.dev/) · [GitHub](https://github.com/yaseen-vm) · [Email](mailto:mohammedyaseenvm@gmail.com)
 
 </div>
