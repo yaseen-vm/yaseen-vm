@@ -1,111 +1,91 @@
-<div align="center">
+# Mohammed Yaseen V M
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Mohammed%20Yaseen&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Engineering&descAlignY=60&descSize=20&descColor=a78bfa"/>
+**Software Engineer · Backend Systems · AI Engineering**
 
-**I build backend systems, AI-powered developer tools, and cloud-native applications.**
+I design and build backend services, developer tools, and cloud-based applications. My work spans API development, data modeling, workflow automation, and integrating AI into practical engineering systems.
 
-[Portfolio](https://yaseen.dev/) · [GitHub](https://github.com/yaseen-vm) · [Email](mailto:mohammedyaseenvm@gmail.com)
+I value clear architecture, reliable execution, maintainable code, and engineering decisions that can be explained and tested.
 
-</div>
+[GitHub](https://github.com/yaseen-vm) · [Email](mailto:mohammedyaseenvm@gmail.com)
 
 ---
 
-## About
+## Professional Experience
 
-I'm a software engineer focused on backend engineering, practical AI applications, and maintainable system design. I work across API development, data modeling, cloud infrastructure, CI/CD, and web/mobile applications.
+### Zevon AI
+**Full-stack Engineer** · August 2026 – Present
 
-I care about more than getting a feature to work: I aim to make systems testable, observable, secure, and straightforward to maintain.
-
-- **Backend:** production APIs, business workflows, database-backed services, and asynchronous processing
-- **AI engineering:** LLM integrations, agent workflows, AI-assisted code review, and retrieval-augmented generation
-- **Cloud & delivery:** Cloudflare, AWS, containers, infrastructure as code, and automated deployment
-- **Engineering practices:** clear contracts, automated tests, documented decisions, and explicit failure handling
-
-## Experience
-
-### Full-stack Engineering — Zevon AI
-*August 2026 – Present*
-
-Contributing to a learning platform across full-stack application development and deployment workflows.
+Contributing to a learning platform, with work across application development and delivery.
 
 ### Edstem Technologies — SetFit
-*Software Engineer / Software Associate · December 2024 – July 2026*
+**Software Engineer / Software Associate** · December 2024 – July 2026
 
 - Built and maintained **60+ REST API endpoints across 25 business domains** for a fitness platform.
-- Worked on authentication, bookings, payments, gym discovery, referrals, and rewards.
-- Contributed to MySQL/Vitess data modeling, Redis-backed workflows, and AWS services including ECS, Lambda, and SQS.
-- Delivered features across React Native applications and supported automated deployment workflows.
+- Delivered backend features across authentication, bookings, payments, gym discovery, referrals, and rewards.
+- Worked with MySQL and Vitess data models, Redis-backed workflows, and AWS services including ECS, Lambda, and SQS.
+- Contributed to React Native applications and automated deployment workflows.
 
 ## Selected Projects
 
+### [AI Job Agent](https://github.com/yaseen-vm/ai-job-agent)
+**AI-assisted job discovery and application workflows**
+
+Building a platform to discover relevant opportunities and support users through a structured, agent-assisted application workflow. Current engineering focus includes reliable job-source crawling, workflow orchestration, and safe handling of external inputs.
+
+Python · AI agents · Web crawling · Cloudflare D1
+
 ### [git-crew](https://github.com/yaseen-vm/git-crew)
-**AI-assisted code review for Git diffs**
+**Multi-agent code review for Git diffs**
 
-A Python CLI that orchestrates specialist reviews for security, architecture, and performance, aggregates findings into a structured report, and supports follow-up Q&A. Uses LangGraph for workflow orchestration, CrewAI for specialist review, and AutoGen for interactive review conversations.
+A developer CLI that coordinates specialist reviews across areas such as security, architecture, and performance, then consolidates findings into a structured report with follow-up Q&A.
 
-`Python` `LangGraph` `CrewAI` `AutoGen` `LLM integrations`
+Python · LangGraph · CrewAI · AutoGen
 
 ### [Repo Scanner](https://github.com/yaseen-vm/repo_scanner)
-**AI-powered code analysis in GitHub Actions**
+**AI-assisted repository analysis in GitHub Actions**
 
-A reusable workflow for diff-aware code analysis, security and quality findings, PR summaries, and report artifacts. Includes an approval-gated plan → approve → fix workflow for AI-assisted remediation.
+A workflow for diff-aware code analysis, quality and security findings, pull request summaries, and report artifacts. Includes an approval-gated plan-and-fix workflow for AI-assisted remediation.
 
-`Python` `GitHub Actions` `LLM APIs` `CI/CD`
+Python · GitHub Actions · LLM APIs · CI/CD
 
 ### [git-context](https://github.com/yaseen-vm/git-context)
-**Repository context for AI code reviews**
+**Structured repository context for AI code review**
 
-A CLI that gathers relevant diffs, related files, repository conventions, and Git history into a structured context package for more informed, architecture-aware code reviews. Supports Markdown, JSON, and prompt-oriented output.
+A CLI that packages Git diffs, related files, repository conventions, and history into structured context for more informed code review. Supports Markdown, JSON, and prompt-oriented output.
 
-`Node.js` `Git` `CLI tooling` `AI developer tools`
+Node.js · Git · CLI tooling
 
-### [Vivid VitaBlends — Serverless E-commerce](https://github.com/yaseen-vm/vivid_vitablends_serverless)
-**Full-stack commerce on Cloudflare**
+### [Vivid VitaBlends — Serverless](https://github.com/yaseen-vm/vivid_vitablends_serverless)
+**Cloudflare-based e-commerce architecture**
 
-A serverless e-commerce implementation using a React and TypeScript frontend with a Hono API on Cloudflare Workers. The architecture uses D1 for relational data, R2 for object storage, KV for caching and rate limiting, Prisma for data access, and Terraform for infrastructure.
+A serverless commerce project using a React and TypeScript frontend with a Hono API on Cloudflare Workers. The architecture uses D1, R2, and KV alongside Prisma and Terraform.
 
-`React` `TypeScript` `Hono` `Cloudflare Workers` `D1` `R2` `Terraform`
-
-## Current Focus
-
-I'm building an **AI-native job discovery and application-assistance platform**, with an emphasis on reliable crawling, durable orchestration, retry-safe processing, and secure handling of untrusted URLs. I'm also exploring governed, provider-independent AI coding workflows with explicit human approval gates.
+React · TypeScript · Hono · Cloudflare Workers · D1 · R2 · Terraform
 
 ## Technical Skills
 
 | Area | Technologies |
 |---|---|
 | **Languages** | Python, TypeScript, JavaScript, SQL, Java, Dart |
-| **Backend & APIs** | Flask, FastAPI, Hono, Node.js, REST APIs |
+| **Backend & APIs** | Flask, FastAPI, Node.js, Hono, REST APIs |
 | **Frontend & Mobile** | React, React Native, Flutter |
-| **Data** | MySQL, PostgreSQL, Vitess, Redis, MongoDB, Cloudflare D1 |
-| **Cloud & DevOps** | AWS, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions, Linux |
+| **Databases & Caching** | MySQL, PostgreSQL, Vitess, Redis, MongoDB, Cloudflare D1 |
+| **Cloud & Infrastructure** | AWS, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions, Linux |
 | **AI Engineering** | LLM integrations, AI agents, RAG, MCP, AWS Bedrock |
-| **Testing & Quality** | Pytest, Jest, TypeScript checks, linting, CI pipelines |
+| **Testing & Quality** | Pytest, Jest, linting, type checking, CI pipelines |
 
-## Engineering Principles
+## Engineering Approach
 
-- **Design for failure:** retries, timeouts, idempotency, and observable failure states.
-- **Prefer explicit contracts:** clear API boundaries, typed interfaces, and documented decisions.
-- **Automate quality checks:** tests, linting, type checks, and CI before delivery.
-- **Keep humans in consequential loops:** approval gates for risky AI-generated changes and production actions.
-- **Optimize for maintainability:** simple abstractions, clear ownership, and readable code.
+- **Reliability first:** design for timeouts, retries, idempotency, and clear failure states.
+- **Explicit boundaries:** keep APIs, data access, and business logic clearly separated.
+- **Quality through automation:** use tests and CI checks to catch regressions early.
+- **Responsible AI workflows:** use validation and human approval for consequential changes.
+- **Maintainability over unnecessary complexity:** choose abstractions that make systems easier to understand and operate.
 
-## GitHub Activity
+## Current Interests
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yaseen-vm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaseen-vm&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
-</div>
+Backend architecture, AI-assisted software engineering, agent workflow design, cloud-native systems, and dependable automation.
 
 ---
 
-<div align="center">
-
-Open to backend engineering, AI engineering, and system design collaborations.
-
-[Portfolio](https://yaseen.dev/) · [GitHub](https://github.com/yaseen-vm) · [Email](mailto:mohammedyaseenvm@gmail.com)
-
-</div>
+[GitHub repositories](https://github.com/yaseen-vm?tab=repositories) · [Get in touch](mailto:mohammedyaseenvm@gmail.com)
